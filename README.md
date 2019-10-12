@@ -8,24 +8,27 @@
 - To predict whether the incoming tweet is a positive or negative tweet
 
 ## Line Works
-1. Data Preprocessing 
+### 1. Data Preprocessing 
   - Lower Casing
   - Punctutation Removal
   - Spelling Correction
   - Stemming
   - Lematization
-2. Data Exploration
+### 2. Data Exploration
   - Word and Character's Distribution
   - Wordcloud For Each Sentiment
-3. Data Modelling 
+### 3. Data Modelling 
   - Feature Extraction (TF-IDF and CountVectorizer)
   - Modelling (Logistics Regression and Naive Bayes)
   - Hyperparameter Tuning
-4. Model Evaluation
+### 4. Model Evaluation
   - Accuracy
   - Precision
   - Recall
   - ROC Curve and AUC score
   - Confusion Matrix
-5. Conclusion and Future Works
+### 5. Conclusion and Future Works
+
+Created by :
+<br>Fransdana Nadeak
   
